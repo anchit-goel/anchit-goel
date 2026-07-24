@@ -1,10 +1,10 @@
-<div align="center">
-  <table width="800" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 800px; border-collapse: collapse; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117;">
+<div align="center" style="width: 100%; max-width: 800px; margin: 0 auto; overflow-x: auto; -webkit-overflow-scrolling: touch;">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed; width: 100%; max-width: 800px; border-collapse: collapse; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117;">
     <tr>
       <!-- ASCII Art Terminal Column -->
-      <td valign="top" width="300" style="width: 300px; border: none; padding: 0; background-color: #0d1117; overflow: hidden;">
-        <pre style="font-family: monospace; background-color: #0d1117; color: #61afef; line-height: 1.0; margin: 0; padding: 20px 10px 20px 20px; border: none; font-size: 5px; letter-spacing: 0.5px; overflow: hidden; box-sizing: border-box;"><small><small><small><small>++++++++++++++++++++++++++#++++++++++++++++++++++++++++#++++++++++++++++++++++++++++#+++++++++++++++
-++++++++++++++++++++++++++#++++++++++++++++++++++++++++++++++++++++++++++++封装+++++++++#+++++++++++++++
+      <td valign="top" width="280" style="width: 35%; max-width: 280px; border: none; padding: 0; background-color: #0d1117; overflow: hidden;">
+        <pre style="font-family: monospace; background-color: #0d1117; color: #61afef; line-height: 1.0; margin: 0; padding: 20px 5px 20px 20px; border: none; font-size: 4.8px; letter-spacing: 0.3px; overflow: hidden; box-sizing: border-box;"><small><small><small><small>++++++++++++++++++++++++++#++++++++++++++++++++++++++++#++++++++++++++++++++++++++++#+++++++++++++++
+++++++++++++++++++++++++++#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++#+++++++++++++++
 ++++++++++++++++++++++++++#++++++++++++++++++++++++++++#++++++++++++++++++++++++++++#+++++++++++++++
 ++++++++++++++++++++++++++#+++++++++++++++++++++++++++##+++++++++++##################++++#++++++++++
 ++++++++++++++++++++++++++#++++++++++++++++++++++++++++#+++++++++++++++++++++++++++##+----++++++++++
@@ -22,7 +22,7 @@
 -------------------------+#+--------------------------+#+--------------------------+#+--------------
 -------------------------+#+--------------------------+#+--------------------------+#+--------------
 -------------------------+#+--------------------++----+#+---+----------------------+#+-+++++++++++++
-++++++++++++++++++++++++++#强度+++++++++#+++##############++##############++++++###########+++++++++++++
+++++++++++++++++++++++++++#+++++++++#+++##############++##############++++++###########+++++++++++++
 ++++++++++++++++++++++++++#+++-------+##################+--------------------------+#+--------------
 --------------+----------+#+------+######################++------------------------+#+--------------
 -------------------------+#+----+##########################+-----------------------+#+--------------
@@ -78,29 +78,29 @@
 ++++++++++##################+++++++++###++++###############################################+--------</small></small></small></small></pre>
       </td>
       <!-- Stats Terminal Column -->
-      <td valign="top" width="500" style="width: 500px; border: none; padding: 0; background-color: #0d1117; overflow: hidden;">
-        <pre style="font-family: monospace; background-color: #0d1117; color: #abb2bf; line-height: 1.4; margin: 0; padding: 20px 20px 20px 10px; border: none; font-size: 13px; box-sizing: border-box; width: 500px;">
-<span style="color: #abb2bf;">anchit-goel</span>@<span style="color: #abb2bf;">macbook</span> <span style="color: #5c6370;">--------------------------------------------</span>
+      <td valign="top" width="520" style="width: 65%; max-width: 520px; border: none; padding: 0; background-color: #0d1117; overflow: hidden;">
+        <pre style="font-family: monospace; background-color: #0d1117; color: #abb2bf; line-height: 1.4; margin: 0; padding: 20px 20px 20px 10px; border: none; font-size: 13px; box-sizing: border-box; overflow-x: auto;">
+<span style="color: #abb2bf;">anchit-goel</span>@<span style="color: #abb2bf;">macbook</span> <span style="color: #5c6370;">------------------------------------</span>
 <span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">OS</span>...............: <span style="color: #abb2bf;">macOS</span>
 <span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Uptime</span>...........: <span style="color: #abb2bf;">20 Years, 24 days, 6 hours</span>
 <span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Host</span>.............: <span style="color: #abb2bf;">MacBook Pro</span>
 <span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Tools</span>............: <span style="color: #abb2bf;">VS Code, Cursor, Antigravity, GitHub</span>
 <span style="color: #5c6370;">.</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Languages.Programming</span>: <span style="color: #5c6370;">.............</span> <span style="color: #abb2bf;">C++, Python, Java, Next JS</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Languages.Real</span>: <span style="color: #5c6370;">........................</span> <span style="color: #abb2bf;">English, French, Hindi</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Languages.Programming</span>: <span style="color: #5c6370;">...</span> <span style="color: #abb2bf;">C++, Python, Java, Next JS</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Languages.Real</span>: <span style="color: #5c6370;">..............</span> <span style="color: #abb2bf;">English, French, Hindi</span>
 <span style="color: #5c6370;">.</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Hobbies.Hackathons</span>: <span style="color: #5c6370;">................</span> <span style="color: #abb2bf;">Burn 24 hours in Hackathon</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Hobbies.Socials</span>: <span style="color: #5c6370;">................</span> <span style="color: #abb2bf;">Doomscrolling GitHub &amp; Reddit</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Hobbies.Hackathons</span>: <span style="color: #5c6370;">......</span> <span style="color: #abb2bf;">Burn 24 hours in Hackathon</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Hobbies.Socials</span>: <span style="color: #5c6370;">......</span> <span style="color: #abb2bf;">Doomscrolling GitHub &amp; Reddit</span>
 
-<span style="color: #5c6370;">-</span> <span style="color: #abb2bf;">Contact</span> <span style="color: #5c6370;">-----------------------------------------------------</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Email.Work</span>.......: <span style="color: #5c6370;">.............................</span> <a href="mailto:anchitindia@gmail.com" style="color: #abb2bf; text-decoration: none;">anchitindia@gmail.com</a>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Email.Personal</span>...: <span style="color: #5c6370;">.........................</span> <a href="mailto:anchitgoel5@gmail.com" style="color: #abb2bf; text-decoration: none;">anchitgoel5@gmail.com</a>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Linkedin</span>.........: <span style="color: #5c6370;">...........................................</span> <a href="https://www.linkedin.com/in/anchitgoel5/" style="color: #abb2bf; text-decoration: none;">anchitgoel5</a>
+<span style="color: #5c6370;">-</span> <span style="color: #abb2bf;">Contact</span> <span style="color: #5c6370;">---------------------------------------------</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Email.Work</span>.......: <span style="color: #5c6370;">...................</span> <a href="mailto:anchitindia@gmail.com" style="color: #abb2bf; text-decoration: none;">anchitindia@gmail.com</a>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Email.Personal</span>...: <span style="color: #5c6370;">...............</span> <a href="mailto:anchitgoel5@gmail.com" style="color: #abb2bf; text-decoration: none;">anchitgoel5@gmail.com</a>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Linkedin</span>.........: <span style="color: #5c6370;">...............................</span> <a href="https://www.linkedin.com/in/anchitgoel5/" style="color: #abb2bf; text-decoration: none;">anchitgoel5</a>
 
-<span style="color: #5c6370;">-</span> <span style="color: #abb2bf;">GitHub Stats</span> <span style="color: #5c6370;">------------------------------------------------</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Repos</span>: <span style="color: #5c6370;">.....</span> <span style="color: #abb2bf;">29</span> <span style="color: #abb2bf;">{</span><span style="color: #d19a66;">Contributed: 67</span><span style="color: #abb2bf;">}</span> <span style="color: #5c6370;">|</span> <span style="color: #e5c07b;">Stars</span>: <span style="color: #5c6370;">..................</span> <span style="color: #abb2bf;">1</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Commits</span>: <span style="color: #5c6370;">.....................</span> <span style="color: #abb2bf;">233</span> <span style="color: #5c6370;">|</span> <span style="color: #e5c07b;">Followers</span>: <span style="color: #5c6370;">.............</span> <span style="color: #abb2bf;">4</span>
-<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Lines of Code on GitHub</span>: <span style="color: #5c6370;">.....</span> <span style="color: #abb2bf;">184,321 (</span> <span style="color: #98c379;">210,482++</span> <span style="color: #abb2bf;">,</span> <span style="color: #e06c75;">26,161--</span> <span style="color: #abb2bf;">)</span></pre>
+<span style="color: #5c6370;">-</span> <span style="color: #abb2bf;">GitHub Stats</span> <span style="color: #5c6370;">----------------------------------------</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Repos</span>: <span style="color: #5c6370;">..</span> <span style="color: #abb2bf;">29</span> <span style="color: #abb2bf;">{</span><span style="color: #d19a66;">Contributed: 67</span><span style="color: #abb2bf;">}</span> <span style="color: #5c6370;">|</span> <span style="color: #e5c07b;">Stars</span>: <span style="color: #5c6370;">...........</span> <span style="color: #abb2bf;">1</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Commits</span>: <span style="color: #5c6370;">...............</span> <span style="color: #abb2bf;">233</span> <span style="color: #5c6370;">|</span> <span style="color: #e5c07b;">Followers</span>: <span style="color: #5c6370;">.........</span> <span style="color: #abb2bf;">4</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Lines of Code</span>: <span style="color: #5c6370;">.....</span> <span style="color: #abb2bf;">184,321 (</span> <span style="color: #98c379;">210,482++</span> <span style="color: #abb2bf;">,</span> <span style="color: #e06c75;">26,161--</span> <span style="color: #abb2bf;">)</span></pre>
       </td>
     </tr>
   </table>
