@@ -1,9 +1,11 @@
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td valign="top" style="border: none; padding: 0;">
-      <pre style="font-family: monospace; background-color: #0d1117; color: #58a6ff; line-height: 1.1; margin: 0; padding: 15px; border: none;">
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117;">
+    <tr>
+      <!-- ASCII Art Terminal Column -->
+      <td valign="top" style="border: none; padding: 0; background-color: #0d1117; width: 270px;">
+        <pre style="font-family: monospace; background-color: #0d1117; color: #61afef; line-height: 1.0; margin: 0; padding: 20px 10px 20px 20px; border: none; font-size: 4.5px; letter-spacing: 0.5px; overflow: hidden; box-sizing: border-box; width: 270px;">
 ++++++++++++++++++++++++++#++++++++++++++++++++++++++++#++++++++++++++++++++++++++++#+++++++++++++++
-++++++++++++++++++++++++++#+++++++++++++++++++++++++++++++++++++++++++++++++++++++++#+++++++++++++++
+++++++++++++++++++++++++++#++++++++++++++++++++++++++++++++++++++++++++++++封装+++++++++#+++++++++++++++
 ++++++++++++++++++++++++++#++++++++++++++++++++++++++++#++++++++++++++++++++++++++++#+++++++++++++++
 ++++++++++++++++++++++++++#+++++++++++++++++++++++++++##+++++++++++##################++++#++++++++++
 ++++++++++++++++++++++++++#++++++++++++++++++++++++++++#+++++++++++++++++++++++++++##+----++++++++++
@@ -34,7 +36,7 @@
 -------------------------+#++-++############---+++++-----+#+++---------------------+#+--------------
 -------------------------+#+----+########+++--------------+#-+----------------------++--------------
 -------------------------+#+-----###+++++++++--+----------++++---------------------+++--------------
--------------------------+#+-----+##++----+###++----------++------------------------+#--------------
+-------------------------+#+-----##++----+###++----------++------------------------+#--------------
 -------------------------+#+------##+++--+++#+++++++------+++----------------------++#--------------
 -------------------------+#+------+#++++++###++++++++-----+++----------------------++#++++++++++++++
 ++++++++++++++++++++++++++##+++++####++++###+++++--------+++++++###+#+++##++++++++####++++++++++++++
@@ -75,41 +77,32 @@
 +++++++++##############+++++++++++++###+----+#############++########+++#######++#############+------
 +++++++++#################++++++++++####----################++########+++###################+-------
 ++++++++++##################+++++++++###++++###############################################+--------</pre>
-    </td>
-    <td valign="top" style="border: none; padding: 0;">
-      <pre style="font-family: monospace; background-color: #0d1117; color: #c9d1d9; line-height: 1.4; margin: 0; padding: 15px 15px 5px 15px; border: none;">
-<span style="color: #58a6ff; font-weight: bold;">anchit-goel</span>@<span style="color: #58a6ff; font-weight: bold;">github</span>
-------------------
-<span style="color: #ff7b72; font-weight: bold;">OS</span>...............: macOS
-<span style="color: #ff7b72; font-weight: bold;">Tools</span>............: VS Code, Cursor, Antigravity, GitHub
-<span style="color: #ff7b72; font-weight: bold;">Uptime</span>...........: 20 Years, 24 days, 6 hours
+      </td>
+      <!-- Stats Terminal Column -->
+      <td valign="top" style="border: none; padding: 0; background-color: #0d1117; width: 510px;">
+        <pre style="font-family: monospace; background-color: #0d1117; color: #abb2bf; line-height: 1.4; margin: 0; padding: 20px 20px 20px 10px; border: none; font-size: 13px; box-sizing: border-box; width: 510px;">
+<span style="color: #abb2bf;">anchit-goel</span>@<span style="color: #abb2bf;">macbook</span> <span style="color: #5c6370;">--------------------------------------------</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">OS</span>...............: <span style="color: #abb2bf;">macOS</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Uptime</span>...........: <span style="color: #abb2bf;">20 Years, 24 days, 6 hours</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Host</span>.............: <span style="color: #abb2bf;">MacBook Pro</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Tools</span>............: <span style="color: #abb2bf;">VS Code, Cursor, Antigravity, GitHub</span>
+<span style="color: #5c6370;">.</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Languages.Programming</span>: <span style="color: #5c6370;">.............</span> <span style="color: #abb2bf;">C++, Python, Java, Next JS</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Languages.Real</span>: <span style="color: #5c6370;">........................</span> <span style="color: #abb2bf;">English, French, Hindi</span>
+<span style="color: #5c6370;">.</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Hobbies.Hackathons</span>: <span style="color: #5c6370;">................</span> <span style="color: #abb2bf;">Burn 24 hours in Hackathon</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Hobbies.Socials</span>: <span style="color: #5c6370;">................</span> <span style="color: #abb2bf;">Doomscrolling GitHub &amp; Reddit</span>
 
-<span style="color: #79c0ff; font-weight: bold;">[Languages.Programming]</span>
-<span style="color: #ffa657;">C++</span>..............: Proficient
-<span style="color: #ffa657;">Python</span>...........: Intermediate
-<span style="color: #ffa657;">Java</span>.............: Intermediate
-<span style="color: #ffa657;">Next JS</span>..........: Intermediate
+<span style="color: #5c6370;">-</span> <span style="color: #abb2bf;">Contact</span> <span style="color: #5c6370;">-----------------------------------------------------</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Email.Work</span>.......: <span style="color: #5c6370;">.............................</span> <a href="mailto:anchitindia@gmail.com" style="color: #abb2bf; text-decoration: none;">anchitindia@gmail.com</a>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Email.Personal</span>...: <span style="color: #5c6370;">.........................</span> <a href="mailto:anchitgoel5@gmail.com" style="color: #abb2bf; text-decoration: none;">anchitgoel5@gmail.com</a>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Linkedin</span>.........: <span style="color: #5c6370;">...........................................</span> <a href="https://www.linkedin.com/in/anchitgoel5/" style="color: #abb2bf; text-decoration: none;">anchitgoel5</a>
 
-<span style="color: #79c0ff; font-weight: bold;">[Languages.Real]</span>
-<span style="color: #ffa657;">English</span>..........: Fluent
-<span style="color: #ffa657;">French</span>...........: Basic
-<span style="color: #ffa657;">Hindi</span>............: Native
-
-<span style="color: #79c0ff; font-weight: bold;">[Hobbies]</span>
-<span style="color: #ffa657;">Hackathons</span>.......: Burn 24 hours in Hackathon
-<span style="color: #ffa657;">Doomscrolling</span>....: GitHub Repos &amp; Reddit
-
-<span style="color: #79c0ff; font-weight: bold;">[Contact]</span>
-<span style="color: #ffa657;">Email.work</span>.......: anchitindia@gmail.com
-<span style="color: #ffa657;">Email.personal</span>...: anchitgoel5@gmail.com
-<span style="color: #ffa657;">Linkedin</span>.........: https://www.linkedin.com/in/anchitgoel5/
-
-<span style="color: #79c0ff; font-weight: bold;">[GitHub Stats]</span></pre>
-      <div style="background-color: #0d1117; padding: 0 15px 15px 15px; margin: 0;">
-        <a href="https://github.com/anchit-goel">
-          <img src="https://github-readme-stats.vercel.app/api?username=anchit-goel&show_icons=true&theme=dark" alt="Anchit's GitHub stats" height="150" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<span style="color: #5c6370;">-</span> <span style="color: #abb2bf;">GitHub Stats</span> <span style="color: #5c6370;">------------------------------------------------</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Repos</span>: <span style="color: #5c6370;">.....</span> <span style="color: #abb2bf;">29</span> <span style="color: #abb2bf;">{</span><span style="color: #d19a66;">Contributed: 67</span><span style="color: #abb2bf;">}</span> <span style="color: #5c6370;">|</span> <span style="color: #e5c07b;">Stars</span>: <span style="color: #5c6370;">..................</span> <span style="color: #abb2bf;">1</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Commits</span>: <span style="color: #5c6370;">.....................</span> <span style="color: #abb2bf;">233</span> <span style="color: #5c6370;">|</span> <span style="color: #e5c07b;">Followers</span>: <span style="color: #5c6370;">.............</span> <span style="color: #abb2bf;">4</span>
+<span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Lines of Code on GitHub</span>: <span style="color: #5c6370;">.....</span> <span style="color: #abb2bf;">184,321 (</span> <span style="color: #98c379;">210,482++</span> <span style="color: #abb2bf;">,</span> <span style="color: #e06c75;">26,161--</span> <span style="color: #abb2bf;">)</span></pre>
+      </td>
+    </tr>
+  </table>
+</div>
