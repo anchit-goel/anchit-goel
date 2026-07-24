@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 100%; max-width: 800px; margin: 0 auto; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; overflow-x: auto; -webkit-overflow-scrolling: touch; box-sizing: border-box;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: flex-start; width: 100%; max-width: 800px; margin: 0 auto; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; overflow-x: auto; -webkit-overflow-scrolling: touch; box-sizing: border-box;">
   <!-- Left ASCII Art Column -->
   <pre style="font-family: monospace; background-color: #0d1117; color: #61afef; font-size: 8px; line-height: 8px; white-space: pre; margin: 0; padding: 20px; border: none; flex: 0 0 auto;">
 :::::::::-#::::::::::=+::::::::-:*=:----
@@ -28,7 +28,7 @@
 =++@@@@@%*#+:.:-  %%@@#@@%#%@@%@@%@@@*::
 ---*@@@@@%#**#%@ -@@@@@@@@@@@@@@@@@@%...</pre>
   <!-- Right Stats Column -->
-  <pre style="font-family: monospace; background-color: #0d1117; color: #abb2bf; line-height: 1.4; font-size: 14px; margin: 0; padding: 20px; border: none; flex: 1 1 auto; min-width: 300px; overflow-x: auto;">
+  <pre style="font-family: monospace; background-color: #0d1117; color: #abb2bf; line-height: 1.4; font-size: 14px; margin: 0; padding: 20px 20px 20px 0; border: none; flex: 1 1 auto; min-width: 300px; overflow-x: auto;">
 <span style="color: #abb2bf;">anchit-goel</span>@<span style="color: #abb2bf;">macbook</span> <span style="color: #5c6370;">------------------------------------</span>
 <span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">OS</span>...............: <span style="color: #abb2bf;">macOS</span>
 <span style="color: #5c6370;">.</span> <span style="color: #e5c07b;">Uptime</span>...........: <span style="color: #abb2bf;">20 Years, 24 days, 6 hours</span>
